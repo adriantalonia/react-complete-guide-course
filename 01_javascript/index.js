@@ -35,4 +35,4 @@ const newObject = { ...oldObject, newProp: 5 };
 
 const filter = (...args) => {
   return args.filter((el = el == 1));
-};
+}
